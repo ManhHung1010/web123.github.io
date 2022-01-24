@@ -82,10 +82,9 @@
     }
     .social {
         font-size: 44px;
-    }
-    .social a {
         margin: 0 5px;
     }
+    
     #footer .copyright {
         padding: 12px 0;
         display: inline-block;
