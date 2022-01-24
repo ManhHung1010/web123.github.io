@@ -81,9 +81,13 @@
         font-size: 19px;
     }
     .social {
-        font-size: 44px;
-        margin: 0 5px;
+        font-size: 41px;
+      
     }
+    .social a {
+         margin: 0 7px;
+    }
+        
     
     #footer .copyright {
         padding: 12px 0;
